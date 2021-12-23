@@ -109,14 +109,19 @@ Explore and build your own thing
 Well Hope you had amazing time practicing Some Speech Recognition Now It's your turn to create something useful out of what you just learned.
 
 
-Give it a star 
---------------
-Did you find this information useful, then give it a star 
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
 
 
-Credits
------------
-All the credits to [kalebu](github.com/kalebu) 
+# 📫 Follw me: 
 
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
 
-*The Only limits are the one you have set upon yourself @unkown*
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
